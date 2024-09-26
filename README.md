@@ -11,6 +11,8 @@ Inspired by the aesthetics of glitch art, I use digital errors or distortions to
 My goal is to incorporate pixel scrambling and color shifting into my projects, combining pixel displacement and color channel shifting to evoke a sense of fragmentation and chaos to create a unique sense of fragmentation and unpredictability. This technique was essential to the assignment's creative exploration of image processing.
 
 ![Alt text](image/pic1.jpg)
+![Alt text](image/pic2.jpg)
+![Alt text](image/pic3.jpg)
 ## Part 2: Coding Technique Exploration
 
 
