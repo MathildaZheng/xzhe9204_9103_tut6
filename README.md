@@ -1,25 +1,34 @@
 # xzhe9204_9103_tut6
 
+
 ## Part 1: Imaging Technique Inspiration
 
-Inspired by the aesthetics of glitch art, I use digital errors or distortions to create visually compelling abstract visual effects. This technique often involves manipulating image pixels, corrupting data, or shifting color channels to simulate technical glitches. Aesthetics include digital noise, screen tearing, or pixelated chaos to create fragmented images.
+Inspired by the aesthetics of **glitch art**,  use digital errors or distortions to create visually compelling abstract visual effects. This technique often involves manipulating image pixels, corrupting data, or shifting color channels to simulate technical glitches. Aesthetics include digital noise, screen tearing, or pixelated chaos to create fragmented images.
 
 My goal is to incorporate pixel scrambling and color shifting into my projects, combining pixel displacement and color channel shifting to evoke a sense of fragmentation and chaos to create a unique sense of fragmentation and unpredictability. This technique was essential to the assignment's creative exploration of image processing.
 
 ![Image caption](image/pic1.jpg)
 ![Image caption](image/pic2.jpg)
 
+
 ## Part 2: Coding Technique Exploration
 
-To implement the glitch art aesthetic, I explored several creative coding works that utilize pixel manipulation and visual distortion techniques.
+To achieve a glitchy artistic aesthetic, I explored several creative coding examples that utilize pixel manipulation and visual distortion techniques.
 
-"https://openprocessing.org/sketch/2136720" 
-"https://openprocessing.org/sketch/1353598" 
-"https://openprocessing.org/sketch/2242345" 
-"https://openprocessing.org/sketch/2135557" 
-"https://openprocessing.org/sketch/2206700"
+- Examples:
+1."https://openprocessing.org/sketch/2136720"
+2."https://openprocessing.org/sketch/2242345"
+3."https://openprocessing.org/sketch/2325217"
+4."https://openprocessing.org/sketch/735606"
+5."https://openprocessing.org/sketch/1353598" 
+6."https://openprocessing.org/sketch/2135557" 
+7."https://openprocessing.org/sketch/2206700"
 
-These from OpenProcessing include methods such as randomizing pixel positions, color channel shifts, and noise generation. These techniques are commonly achieved using libraries like p5.js. By accessing and manipulating pixel arrays with functions such as get() and set() in p5.js, you can scramble pixel data or introduce random noise, achieving the glitch aesthetic.
+Use **'graph drawing'**, **'randomization function'**, **'image manipulation techniques'**, **'pixel manipulation'**, **'pixel manipulation'**, **'line drawing'**, **'randomization function'**, **'image manipulation techniques'**, **'pixel manipulation'**, **'pixel manipulation'**, **'pixel manipulation'**, **'randomized displacement'**, **'line drawing'** , **'pixel jamming'**, **'randomized pixel'** and **'color warping'** coding techniques.
 
-One useful approach, showcased in this sketch, is generating random pixel noise across an image. Another example here demonstrates how controlled glitches can create abstract compositions by shifting pixel grids. These techniques provide the foundation for experimenting with randomness and digital distortion, key to achieving the desired glitch effect.
+By accessing and manipulating pixel arrays using the `get()` ,`set()`, `loadPixels()` and `updatePixels()` etc functions in p5.js, it is possible to randomize pixel positions and color channels to achieve pixel misalignment and color shifting effects. Create unique digital noise, screen tearing and pixelated chaos that perfectly mimics the aesthetics of technical glitches. Randomization of lines and color misalignment greatly enhances the visual fragmentation and chaos
+
+![Image caption](image/pic3.jpg)
+![Image caption](image/pic4.jpg)
+
 
